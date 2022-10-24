@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700996236544",
+    "project_id": "internship-form-app",
+    "storage_bucket": "internship-form-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700996236544:android:9ba812a9c74d16bc446fe5",
+        "android_client_info": {
+          "package_name": "com.example.form_flutter_app_internship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700996236544-8lpij9qsqss8rf3pdi5nhoje45g8vb27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnwwLH0v6loIQvCIq-xRzat3UvPwtR2ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700996236544-8lpij9qsqss8rf3pdi5nhoje45g8vb27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
